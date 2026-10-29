@@ -1,11 +1,11 @@
 ## Hi there 👋
 
--Im Tamizh Maran ,A Junior GIS Developer based in India .
--I design and build  tools and solutions for GIS.
--If i see an problem or idea pops into head,chances are i'll build it and ship it.
--This is a fresh profile where i'll be uploadindg some smaller projects,experiments,things am currently working on.Everything here built from scratch .
--Always learning. Always building.
-
+- I'm Tamizh Maran, a Junior GIS Developer based in India.
+- I design and build tools and solutions for GIS.
+- If I see a problem or an idea pops into my head, chances are I'll build it and ship it.
+- This is a fresh profile where I'll be uploading some smaller projects, experiments, and things I'm currently working on. Everything here is built from scratch.
+- Always learning. Always building.
+- 
 ## Tools&Tech:
 - Driven by a love for GIS and the power of maps to understand our world.
 - Building simple, useful, and easy-to-understand geospatial solutions with:
