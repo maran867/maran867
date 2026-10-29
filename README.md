@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**maran867/maran867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im Tamizh Maran ,A Junior GIS Developer based in India .
+I design and build  tools and solutions for GIS.
+If i see an problem or idea pops into head,chances are i'll build it and ship it.
+This is a fresh profile where i'll be uploadindg some smaller projects,experiments,things am currently working on.Everything here built from scratch .
+Always learning. Always building.
 
-Here are some ideas to get you started:
+## Tools&Tech:
+-🌍 Driven by a love for GIS and the power of maps to understand our world.
+-🛠️ Building simple, useful, and easy-to-understand geospatial solutions with:
+-💻 Languages: Python, JavaScript, R
+-🗺️ Geospatial Tools: GeoPandas, Rasterio, Folium, ArcGIS Maps SDK for JavaScript, Leaflet
+-🌐 Web GIS & Backend: React, Django, GeoDjango, PostGIS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Facts:
+-  I love plants and nature🪴.
+-  Hobbies: Gym, watching series, and reading books.
+-  I enjoy building things that are simple, useful, and easy to understand🛠️.
